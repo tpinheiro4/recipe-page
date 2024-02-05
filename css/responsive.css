@@ -1,0 +1,21 @@
+@media (max-width: 1065px) {
+
+    body {
+        background-color: #fff;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 30px;
+    }
+
+    footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+}
