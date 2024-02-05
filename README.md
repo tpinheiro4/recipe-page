@@ -1,6 +1,6 @@
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/recipe-page-responsive-using-html-and-css-only-evqBA5KxBC)
 - Live Site URL: (https://tpinheiro4.github.io/recipe-page/)
 
 
